@@ -1,0 +1,19 @@
+.button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    padding: 20px 30px;
+    width: 150px;
+    font-family: 'Kumbh Sans', serif;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    background-color: #5964e0;
+    cursor: pointer;
+}
